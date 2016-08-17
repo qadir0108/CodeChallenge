@@ -1,0 +1,21 @@
+﻿6|Oklahoma City|Oklahoma|I-35;I-44;I-40
+6|Boston|Massachusetts|I-90;I-93
+8|Columbus|Ohio|I-70;I-71
+4|Arlington|Texas|I-30;I-20
+5|Long Beach|California|I-10;I-5
+4|Bakersfield|California|I-5
+27|Chicago|Illinois|I-94;I-90;I-88;I-57;I-55
+8|Jacksonville|Florida|I-10;I-95
+12|Dallas|Texas|I-35;I-20;I-45;I-30
+6|Kansas City|Kansas|I-35;I-70;I-29;I-49
+6|Seattle|Washington|I-5;I-90
+4|Cleveland|Ohio|I-90;I-71;I-80;I-77
+15|Philadelphia|Pennsylvania|I-95;I-76
+83|New York|New York|I-78;I-95;I-87;I-80
+6|Portland|Oregon|I-5;I-84
+6|Nashville|Tennessee|I-24;I-65;I-40
+5|Tucson|Arizona|I-10;I-19
+4|Atlanta|Georgia|I-86;I-75;I-20
+4|Oakland|California|I-80
+7|El Paso|Texas|I-10;I-25
+10|San Jose|California|I-5;I-80
